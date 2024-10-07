@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "471346697202",
+    "project_id": "wereal-cd3d7",
+    "storage_bucket": "wereal-cd3d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471346697202:android:3b70a715c0ac418515916b",
+        "android_client_info": {
+          "package_name": "com.atmega.werealapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471346697202-lds0jl52c8ekenljbdvdvvvrghdbg8l0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atmega.werealapp",
+            "certificate_hash": "473efb223fec40079ffab7cb3cfcc9294a9ffd6f"
+          }
+        },
+        {
+          "client_id": "471346697202-tia9n4uhbf3d4u06idn0l3ffj397ep9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBExaVJohDBM7ZTKmp4tl1reV2m0k78ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471346697202-6o34281dtf8enpjv16tntu8duobvpaqh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "471346697202-79dmp6gmi2g0324mqkogvua50mnfavhb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wereal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
