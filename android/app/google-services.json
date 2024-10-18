@@ -14,6 +14,22 @@
       },
       "oauth_client": [
         {
+          "client_id": "471346697202-6o899lo5lq6c2hvtspqak9dp3do15vug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atmega.werealapp",
+            "certificate_hash": "327e0a13b918f7faa879a7aed648976a03d53c58"
+          }
+        },
+        {
+          "client_id": "471346697202-9f0j6ospsnn461gcsbkhg07kl2joa0n6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atmega.werealapp",
+            "certificate_hash": "91318a5137f9bc42f0b9f7a4747a1ed977239148"
+          }
+        },
+        {
           "client_id": "471346697202-d579f403mb1lvmrm5h7o6h95isn6sfhl.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {

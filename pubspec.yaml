@@ -46,6 +46,8 @@ dependencies:
   google_sign_in: ^6.2.1
   change_app_package_name: ^1.4.0
   google_fonts: ^6.2.1
+  flutter_no_internet_widget: ^1.0.0+18-dev.1
+  connectivity_plus: ^3.0.2
 
 dev_dependencies:
   flutter_test:
